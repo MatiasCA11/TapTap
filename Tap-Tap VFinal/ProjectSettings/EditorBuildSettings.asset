@@ -18,11 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 6c766d0020d928a4da33c337a4b1b4d8
   - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: f2f065c66fedf9143982201b6309aa3b
+  - enabled: 1
     path: Assets/Scenes/LevelSelector.unity
     guid: fb872c93758d9a54b9b46ff2b0a484f0
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/DefeatScene.unity
     guid: 0b2f7e1b7f977274bbb6d10f49efcd95
